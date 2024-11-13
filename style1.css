@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background:url(Nevim.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.list{
+    font-size: 33px;
+    margin-right: 55px;
+    color: white;
+    text-align: center;
+    list-style: square;
+}
+
+.list1{
+    color: blueviolet;
+}
